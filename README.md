@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -85,4 +86,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
