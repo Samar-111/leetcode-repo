@@ -76,6 +76,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
@@ -93,4 +94,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
