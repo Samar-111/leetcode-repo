@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -109,6 +110,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
