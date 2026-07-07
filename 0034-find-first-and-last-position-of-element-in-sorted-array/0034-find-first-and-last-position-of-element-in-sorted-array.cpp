@@ -10,7 +10,7 @@ public:
 
             if (nums[mid] == target) {
                 ans = mid;
-                end = mid - 1;      // Continue searching on the left
+                end = mid - 1;      
             }
             else if (nums[mid] < target) {
                 start = mid + 1;
@@ -33,7 +33,7 @@ public:
 
             if (nums[mid] == target) {
                 ans = mid;
-                start = mid + 1;    // Continue searching on the right
+                start = mid + 1;    
             }
             else if (nums[mid] < target) {
                 start = mid + 1;
