@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Samar-111/leetcode-repo/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
@@ -199,4 +201,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
