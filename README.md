@@ -169,6 +169,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -189,4 +190,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
