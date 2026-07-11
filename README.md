@@ -142,6 +142,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
@@ -198,6 +200,7 @@ Happy Coding! 🚀
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
