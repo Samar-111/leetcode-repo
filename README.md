@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samar-111/leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Samar-111/leetcode-repo/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samar-111/leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
@@ -214,6 +216,7 @@ Happy Coding! 🚀
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samar-111/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samar-111/leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
