@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -161,6 +163,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -206,6 +209,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
