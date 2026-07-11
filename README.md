@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/Samar-111/leetcode-repo/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samar-111/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samar-111/leetcode-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -109,6 +110,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Samar-111/leetcode-repo/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Samar-111/leetcode-repo/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -151,6 +153,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -210,12 +213,14 @@ Happy Coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samar-111/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samar-111/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Stack
 |  |
