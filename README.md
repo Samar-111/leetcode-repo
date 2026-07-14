@@ -187,6 +187,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
@@ -263,4 +265,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Samar-111/leetcode-repo/tree/master/0796-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
