@@ -1,19 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        int revnum=0;
+        int dp=x;
+        while(x>0){
+            int lastdigit=x%10;
+            if (revnum > INT_MAX / 10 || (revnum == INT_MAX / 10 && lastdigit > 7))
+                return 0;
+            if (revnum < INT_MIN / 10 || (revnum == INT_MIN / 10 && lastdigit < -8))
+                return 0;
 
-        if (x < 0)
-            return false;
+            revnum=(revnum*10)+lastdigit;
+            x=x/10;
 
-        long long dup = x;
-        long long rev = 0;
-
-        while (x != 0) {
-            int dig = x % 10;
-            rev = rev * 10 + dig;
-            x /= 10;
         }
-
-        return dup == rev;
+        if(dp==revnum) {
+            return true;
+        }
+        else {
+            return false;
+        }
+        
     }
 };
