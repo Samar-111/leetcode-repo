@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
@@ -196,6 +197,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
