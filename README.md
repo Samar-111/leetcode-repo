@@ -280,6 +280,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -290,12 +291,18 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
