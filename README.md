@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Samar-111/leetcode-repo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
