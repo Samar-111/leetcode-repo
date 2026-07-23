@@ -121,6 +121,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/Samar-111/leetcode-repo/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -160,6 +161,7 @@ Happy Coding! 🚀
 | ------- |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +231,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 ## Memoization
