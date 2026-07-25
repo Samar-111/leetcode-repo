@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -141,6 +142,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -153,6 +155,7 @@ Happy Coding! 🚀
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samar-111/leetcode-repo/tree/master/0875-koko-eating-bananas) |
@@ -175,6 +178,7 @@ Happy Coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samar-111/leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
@@ -186,6 +190,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
