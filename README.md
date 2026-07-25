@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samar-111/leetcode-repo/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
@@ -119,6 +120,7 @@ Happy Coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/Samar-111/leetcode-repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samar-111/leetcode-repo/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
@@ -296,6 +298,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
