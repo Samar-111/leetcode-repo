@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
@@ -172,6 +173,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
@@ -255,6 +257,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Samar-111/leetcode-repo/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samar-111/leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
