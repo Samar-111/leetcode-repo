@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/Samar-111/leetcode-repo/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -314,6 +316,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
