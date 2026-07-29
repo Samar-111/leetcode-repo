@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
@@ -227,6 +228,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Samar-111/leetcode-repo/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
