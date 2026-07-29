@@ -354,4 +354,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samar-111/leetcode-repo/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Samar-111/leetcode-repo/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
