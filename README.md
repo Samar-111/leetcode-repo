@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samar-111/leetcode-repo/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Samar-111/leetcode-repo/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
@@ -186,6 +187,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samar-111/leetcode-repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
@@ -202,6 +204,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Samar-111/leetcode-repo/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
@@ -245,6 +248,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/Samar-111/leetcode-repo/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Samar-111/leetcode-repo/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
