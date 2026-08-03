@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/Samar-111/leetcode-repo/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Samar-111/leetcode-repo/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Samar-111/leetcode-repo/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Samar-111/leetcode-repo/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -241,6 +243,7 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -370,4 +373,16 @@ Happy Coding! 🚀
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Samar-111/leetcode-repo/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Samar-111/leetcode-repo/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
