@@ -10,8 +10,7 @@ public:
             }
         }
         i=0;
-        while(i<=ind && num[i]=='0')i++;
+        while(i<=ind &&num[i]=='0')i++;
         return num.substr(i,ind-i+1);
-        
     }
 };
