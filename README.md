@@ -385,4 +385,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
