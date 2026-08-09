@@ -109,6 +109,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -246,6 +248,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
+| [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
@@ -292,6 +295,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Samar-111/leetcode-repo/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Samar-111/leetcode-repo/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Samar-111/leetcode-repo/tree/master/0860-lemonade-change) |
