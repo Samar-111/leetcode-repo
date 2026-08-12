@@ -115,6 +115,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Samar-111/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
@@ -340,6 +341,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -427,4 +429,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Samar-111/leetcode-repo/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
