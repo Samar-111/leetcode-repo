@@ -443,6 +443,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 ## Combinatorics
 |  |
@@ -456,4 +457,8 @@ Happy Coding! 🚀
 | [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samar-111/leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samar-111/leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
