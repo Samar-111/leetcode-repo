@@ -7,13 +7,12 @@ public:
             if(nums[i]==1){
                 cnt++;
             }
-            else{
+            else if(nums[i]!=1){
                 cnt=0;
             }
-        
-        maxi=max(maxi,cnt);
+           
+            maxi=max(maxi,cnt);
         }
         return maxi;
-        
     }
 };
