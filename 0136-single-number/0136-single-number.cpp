@@ -7,6 +7,5 @@ public:
             xorr=xorr^nums[i];
         }
         return xorr;
-        
     }
 };
