@@ -7,17 +7,14 @@ public:
             while(i>=0 && s[i]==' '){
                 i--;
             }
-            if(i<0){
-                break;
-            }
+            if(i<0) break;
             int end=i;
-            while(i>=0 && s[i] != ' '){
-                i--;
+            while(i>=0 && s[i]!=' '){
+            i--;
             }
-            string word= s.substr(i+1,end-i);
+            string word=s.substr(i+1,end-i);
             if(!result.empty()){
-                result+=" ";
-
+            result+=" ";
             }
             result+=word;
         }
