@@ -368,6 +368,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/Samar-111/leetcode-repo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Samar-111/leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Samar-111/leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
@@ -411,6 +412,7 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
@@ -495,9 +497,11 @@ Happy Coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
