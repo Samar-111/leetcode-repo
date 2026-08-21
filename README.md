@@ -366,6 +366,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samar-111/leetcode-repo/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Samar-111/leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Samar-111/leetcode-repo/tree/master/0496-next-greater-element-i) |
@@ -408,6 +409,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
@@ -491,9 +493,11 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
