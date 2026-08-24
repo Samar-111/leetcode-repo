@@ -1,6 +1,5 @@
 class Solution {
-    private:
-    int func(int m,int n,vector<vector<int>>& dp){
+    int func(int m,int n,vector<vector<int>>dp){
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(i==0 && j==0){
@@ -18,7 +17,9 @@ class Solution {
                 dp[i][j]=up+left;
             }
         }
-        return dp[m-1][n-1];
+            
+            return dp[m-1][n-1];
+        
     }
 public:
     int uniquePaths(int m, int n) {
