@@ -404,6 +404,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -432,6 +433,7 @@ Happy Coding! 🚀
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
@@ -525,6 +527,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -541,6 +544,7 @@ Happy Coding! 🚀
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
