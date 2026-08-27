@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0229-majority-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Samar-111/leetcode-repo/tree/master/0485-max-consecutive-ones) |
@@ -282,6 +283,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
@@ -565,4 +567,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Samar-111/leetcode-repo/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
