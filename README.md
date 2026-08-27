@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samar-111/leetcode-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Samar-111/leetcode-repo/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/Samar-111/leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -184,6 +185,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Samar-111/leetcode-repo/tree/master/0876-middle-of-the-linked-list) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -205,12 +207,14 @@ Happy Coding! 🚀
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Samar-111/leetcode-repo/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Samar-111/leetcode-repo/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +254,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
@@ -289,6 +294,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samar-111/leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -575,4 +581,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
