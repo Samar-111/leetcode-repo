@@ -1,9 +1,10 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        long long maxi=LLONG_MIN;
         long long sum=0;
-        for(int i=0;i<nums.size();i++){
+        int n=nums.size();
+        long long maxi=INT_MIN;
+        for(int i=0;i<n;i++){
             sum+=nums[i];
             if(sum>maxi){
                 maxi=sum;
