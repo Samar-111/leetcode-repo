@@ -300,6 +300,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samar-111/leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Simulation
 |  |
@@ -327,6 +328,7 @@ Happy Coding! 🚀
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Samar-111/leetcode-repo/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Samar-111/leetcode-repo/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samar-111/leetcode-repo/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -610,4 +612,8 @@ Happy Coding! 🚀
 | ------- |
 | [0322-coin-change](https://github.com/Samar-111/leetcode-repo/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
