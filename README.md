@@ -102,6 +102,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Samar-111/leetcode-repo/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/Samar-111/leetcode-repo/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
@@ -470,6 +472,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 ## Number Theory
 |  |
