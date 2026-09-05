@@ -6,8 +6,8 @@ public:
         int high=n-1;
         int ans=n;
         while(low<=high){
-            int mid=(high+low)/2;
-            if(target<=nums[mid]){
+            int mid=(low+high)/2;
+            if(nums[mid]>=target){
                 ans=mid;
                 high=mid-1;
             }
