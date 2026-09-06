@@ -4,11 +4,11 @@ public:
         int n=nums.size();
         int maxindex=0;
         for(int i=0;i<n;i++){
-            if(i>maxindex){
-                return false;
-            }
-            maxindex=max(maxindex,i+nums[i]);
+            if(i>maxindex) return false;
+        
+        maxindex=max(maxindex,nums[i]+i);
         }
         return true;
     }
+
 };
