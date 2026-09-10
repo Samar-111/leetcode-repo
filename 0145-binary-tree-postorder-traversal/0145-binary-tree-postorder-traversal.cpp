@@ -10,7 +10,6 @@
  * };
  */
 class Solution {
-    public:
     void postorder(TreeNode*root,vector<int>& arr){
         if(root==nullptr){
             return;
