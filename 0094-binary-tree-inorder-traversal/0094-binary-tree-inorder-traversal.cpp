@@ -10,10 +10,9 @@
  * };
  */
 class Solution {
-    public:
-    void inorder(TreeNode*root,vector<int>&arr){
+    void inorder(TreeNode*root,vector<int>& arr){
         if(root==nullptr){
-            return;
+            return ;
         }
         inorder(root->left,arr);
         arr.push_back(root->val);
