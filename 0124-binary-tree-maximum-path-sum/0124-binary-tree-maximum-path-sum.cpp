@@ -17,14 +17,12 @@ public:
         return maxsum;
         
     }
-    int dfs(TreeNode* node, int &maxsum){
-        if(!node)
-        return 0;
+    int dfs(TreeNode*node,int &maxsum){
+        if(!node) return 0;
+        int left=max(0,dfs(node->left,maxsum));
+        int right=max(0,dfs(node->right,maxsum));
 
-        int lh=max(0,dfs(node->left,maxsum));
-        int rh=max(0,dfs(node->right,maxsum));
-
-        maxsum=max(maxsum,lh+rh+node->val);
-        return max(lh,rh)+node->val;
+    maxsum=max(maxsum,left+right+node->val);
+    return max(left,right)+node->val;
     }
 };
