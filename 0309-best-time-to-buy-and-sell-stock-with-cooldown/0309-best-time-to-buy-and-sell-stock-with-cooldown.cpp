@@ -12,7 +12,7 @@ public:
                 if(buy==1){
                     dp[ind][buy]=max(0+dp[ind+1][1],prices[ind]+dp[ind+2][0]);
                 }
-                dp[0][0]=profit;
+                dp[ind][buy]=profit;
             }
         }
         return dp[0][0];
