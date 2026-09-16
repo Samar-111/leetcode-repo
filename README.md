@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Samar-111/leetcode-repo/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Samar-111/leetcode-repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Samar-111/leetcode-repo/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Samar-111/leetcode-repo/tree/master/0860-lemonade-change) |
@@ -313,6 +314,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Samar-111/leetcode-repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Samar-111/leetcode-repo/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
@@ -377,6 +379,7 @@ Happy Coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/Samar-111/leetcode-repo/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Samar-111/leetcode-repo/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Samar-111/leetcode-repo/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Samar-111/leetcode-repo/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Samar-111/leetcode-repo/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
