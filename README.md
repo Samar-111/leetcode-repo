@@ -644,4 +644,8 @@ Happy Coding! 🚀
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Samar-111/leetcode-repo/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
