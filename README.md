@@ -648,4 +648,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Samar-111/leetcode-repo/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/Samar-111/leetcode-repo/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
