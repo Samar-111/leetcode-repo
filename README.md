@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [0064-minimum-path-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Samar-111/leetcode-repo/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Samar-111/leetcode-repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Samar-111/leetcode-repo/tree/master/0118-pascals-triangle) |
@@ -222,6 +223,7 @@ Happy Coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Samar-111/leetcode-repo/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
@@ -436,6 +438,7 @@ Happy Coding! 🚀
 | ------- |
 | [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Samar-111/leetcode-repo/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
