@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Samar-111/leetcode-repo/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Samar-111/leetcode-repo/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0219-contains-duplicate-ii) |
@@ -451,6 +452,7 @@ Happy Coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Samar-111/leetcode-repo/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0542-01-matrix) |
@@ -467,6 +469,7 @@ Happy Coding! 🚀
 | [0064-minimum-path-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
@@ -483,6 +486,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0543-diameter-of-binary-tree) |
@@ -503,6 +507,7 @@ Happy Coding! 🚀
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 ## Number Theory
 |  |
