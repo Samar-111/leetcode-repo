@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Samar-111/leetcode-repo/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Samar-111/leetcode-repo/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Samar-111/leetcode-repo/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Samar-111/leetcode-repo/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -460,6 +461,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -473,6 +475,7 @@ Happy Coding! 🚀
 | [0542-01-matrix](https://github.com/Samar-111/leetcode-repo/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -493,6 +496,7 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -509,6 +513,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Number Theory
 |  |
 | ------- |
