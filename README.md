@@ -460,6 +460,7 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -496,12 +497,14 @@ Happy Coding! 🚀
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -513,6 +516,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Number Theory
 |  |
@@ -667,4 +671,12 @@ Happy Coding! 🚀
 | ------- |
 | [0176-second-highest-salary](https://github.com/Samar-111/leetcode-repo/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Samar-111/leetcode-repo/tree/master/0182-duplicate-emails) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
