@@ -239,6 +239,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/Samar-111/leetcode-repo/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
@@ -344,6 +345,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Samar-111/leetcode-repo/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Samar-111/leetcode-repo/tree/master/0242-valid-anagram) |
@@ -451,6 +453,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Samar-111/leetcode-repo/tree/master/0200-number-of-islands) |
@@ -699,4 +702,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
