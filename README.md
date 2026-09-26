@@ -461,6 +461,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Samar-111/leetcode-repo/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Matrix
@@ -498,6 +499,7 @@ Happy Coding! 🚀
 | [0662-maximum-width-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Samar-111/leetcode-repo/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Samar-111/leetcode-repo/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
@@ -505,10 +507,12 @@ Happy Coding! 🚀
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Samar-111/leetcode-repo/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Samar-111/leetcode-repo/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -683,4 +687,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Samar-111/leetcode-repo/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Samar-111/leetcode-repo/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
