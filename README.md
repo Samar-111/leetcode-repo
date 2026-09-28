@@ -239,6 +239,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/Samar-111/leetcode-repo/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Samar-111/leetcode-repo/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Samar-111/leetcode-repo/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
@@ -345,6 +346,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/Samar-111/leetcode-repo/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Samar-111/leetcode-repo/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Samar-111/leetcode-repo/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Samar-111/leetcode-repo/tree/master/0205-isomorphic-strings) |
@@ -444,6 +446,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Samar-111/leetcode-repo/tree/master/0078-subsets) |
+| [0126-word-ladder-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -453,6 +456,7 @@ Happy Coding! 🚀
 | [0102-binary-tree-level-order-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Samar-111/leetcode-repo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Samar-111/leetcode-repo/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Samar-111/leetcode-repo/tree/master/0199-binary-tree-right-side-view) |
@@ -705,5 +709,6 @@ Happy Coding! 🚀
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Samar-111/leetcode-repo/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
