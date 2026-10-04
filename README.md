@@ -111,6 +111,7 @@ Happy Coding! 🚀
 | [0135-candy](https://github.com/Samar-111/leetcode-repo/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Samar-111/leetcode-repo/tree/master/0169-majority-element) |
@@ -309,6 +310,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Samar-111/leetcode-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Samar-111/leetcode-repo/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Samar-111/leetcode-repo/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Samar-111/leetcode-repo/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Samar-111/leetcode-repo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0213-house-robber-ii) |
