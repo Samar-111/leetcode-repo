@@ -708,6 +708,7 @@ Happy Coding! 🚀
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Samar-111/leetcode-repo/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Samar-111/leetcode-repo/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Samar-111/leetcode-repo/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0619-biggest-single-number) |
 ## Graph Coloring
 |  |
 | ------- |
