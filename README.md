@@ -711,6 +711,7 @@ Happy Coding! 🚀
 | [0595-big-countries](https://github.com/Samar-111/leetcode-repo/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Samar-111/leetcode-repo/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0619-biggest-single-number) |
+| [1068-product-sales-analysis-i](https://github.com/Samar-111/leetcode-repo/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Samar-111/leetcode-repo/tree/master/1211-queries-quality-and-percentage) |
 ## Graph Coloring
 |  |
