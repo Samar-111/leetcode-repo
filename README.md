@@ -713,6 +713,7 @@ Happy Coding! 🚀
 | [0619-biggest-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0619-biggest-single-number) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Samar-111/leetcode-repo/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Samar-111/leetcode-repo/tree/master/1068-product-sales-analysis-i) |
+| [1179-reformat-department-table](https://github.com/Samar-111/leetcode-repo/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Samar-111/leetcode-repo/tree/master/1211-queries-quality-and-percentage) |
 ## Graph Coloring
 |  |
