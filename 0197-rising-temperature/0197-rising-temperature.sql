@@ -1,4 +1,5 @@
 /* Write your T-SQL query statement below */
+/* Write your T-SQL query statement below */
 SELECT today.id
 FROM Weather yesterday
 CROSS JOIN Weather today
