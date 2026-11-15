@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Samar-111/leetcode-repo/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Samar-111/leetcode-repo/tree/master/0326-power-of-three) |
+| [0400-nth-digit](https://github.com/Samar-111/leetcode-repo/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/Samar-111/leetcode-repo/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Samar-111/leetcode-repo/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Samar-111/leetcode-repo/tree/master/1248-count-number-of-nice-subarrays) |
@@ -221,6 +222,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Samar-111/leetcode-repo/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/Samar-111/leetcode-repo/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Samar-111/leetcode-repo/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Samar-111/leetcode-repo/tree/master/0875-koko-eating-bananas) |
