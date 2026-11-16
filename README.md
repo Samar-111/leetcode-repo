@@ -113,6 +113,7 @@ Happy Coding! 🚀
 | [0135-candy](https://github.com/Samar-111/leetcode-repo/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Samar-111/leetcode-repo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Samar-111/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Samar-111/leetcode-repo/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Samar-111/leetcode-repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Samar-111/leetcode-repo/tree/master/0162-find-peak-element) |
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/Samar-111/leetcode-repo/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Samar-111/leetcode-repo/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Samar-111/leetcode-repo/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Samar-111/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Samar-111/leetcode-repo/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Samar-111/leetcode-repo/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Samar-111/leetcode-repo/tree/master/0263-ugly-number) |
@@ -436,6 +438,7 @@ Happy Coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Samar-111/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Samar-111/leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Samar-111/leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
