@@ -439,6 +439,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Samar-111/leetcode-repo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Samar-111/leetcode-repo/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Samar-111/leetcode-repo/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Samar-111/leetcode-repo/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Samar-111/leetcode-repo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Samar-111/leetcode-repo/tree/master/0503-next-greater-element-ii) |
@@ -755,4 +756,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Samar-111/leetcode-repo/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Samar-111/leetcode-repo/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
