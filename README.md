@@ -378,6 +378,7 @@ Happy Coding! 🚀
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Samar-111/leetcode-repo/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Samar-111/leetcode-repo/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Samar-111/leetcode-repo/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Recursion
 |  |
 | ------- |
