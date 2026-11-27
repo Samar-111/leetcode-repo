@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [2104-sum-of-subarray-ranges](https://github.com/Samar-111/leetcode-repo/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Samar-111/leetcode-repo/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Samar-111/leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -341,6 +342,7 @@ Happy Coding! 🚀
 | [1143-longest-common-subsequence](https://github.com/Samar-111/leetcode-repo/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Samar-111/leetcode-repo/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Samar-111/leetcode-repo/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Samar-111/leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -409,6 +411,7 @@ Happy Coding! 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Samar-111/leetcode-repo/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/Samar-111/leetcode-repo/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Samar-111/leetcode-repo/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Samar-111/leetcode-repo/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
